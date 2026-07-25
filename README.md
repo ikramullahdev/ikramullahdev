@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Muhammad Ikram Ullah Banner" width="100%">
+</p>
 # Hi 👋, I'm Muhammad Ikram Ullah
 
 ## 💻 Software Engineering Student | Java Developer | Database Administrator | Web Developer
