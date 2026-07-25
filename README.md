@@ -45,3 +45,43 @@ I am a Software Engineering student passionate about building modern web applica
 ---
 
 ⭐ Thanks for visiting my profile!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikramullahdev&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramullahdev&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ikramullahdev&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🚀 Connect With Me
+
+<p align="center">
+
+<a href="https://ikramullahdev.github.io/portfolio/">
+Portfolio
+</a> •
+<a href="https://github.com/ikramullahdev">
+GitHub
+</a> •
+<a href="https://www.freelancer.pk/u/muhammadikramu">
+Freelancer
+</a>
+
+</p>
