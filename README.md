@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Muhammad Ikram Ullah
 
-<!--
-**ikramullahdev/ikramullahdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Engineering Student | Java Developer | Database Administrator | Web Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Software Engineering student passionate about building modern web applications, databases, and software solutions. I enjoy learning new technologies and creating real-world projects.
+
+---
+
+## 🚀 About Me
+
+- 🎓 BS Software Engineering Student
+- 💻 Java Developer
+- 🗄️ Database Administrator (SQL)
+- 🌐 Frontend Web Developer
+- 📍 Pakistan
+- 📚 Currently learning Full Stack Development
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- SQL
+- Git & GitHub
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://ikramullahdev.github.io/portfolio/
+
+---
+
+## 📫 Contact
+
+- 📧 Email: ikramahmed12201@gmail.com
+- 💼 Freelancer: https://www.freelancer.pk/u/muhammadikramu
+- 🐙 GitHub: https://github.com/ikramullahdev
+
+---
+
+⭐ Thanks for visiting my profile!
